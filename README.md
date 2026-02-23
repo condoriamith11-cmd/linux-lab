@@ -9,7 +9,7 @@ Cada semana incluye un capstone practico versionado con Git
 .
 ## Progreso del Curso
 | Semana | Tema | Estado |
-| - - - - - - - -| - - - - - -| - - - - - - - -|
+|--------|------|--------|
 | 01 | Fundamentos + Git | |
 | 02 | Manipulacion de Archivos | |
 | 03 | Procesamiento de Texto | |
