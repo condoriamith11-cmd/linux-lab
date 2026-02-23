@@ -28,15 +28,15 @@ Cada semana incluye un capstone practico versionado con Git
 ## Estructura del Repositorio
 '''
 linux - lab /
-README . md
-. gitignore
-semana01 /
-README . md
-filesystem - map . md
-filesystem - diagram . txt
-ejemplos - practicos . md
-semana02 /
-( por completar )
+	-README . md
+	-. gitignore
+	-semana01 /
+		--README . md
+		--filesystem - map . md
+		--filesystem - diagram . txt
+	-ejemplos - practicos . md
+	-semana02 /
+		( por completar )
 ...
 ‘‘‘
 ## Objetivos del Curso
